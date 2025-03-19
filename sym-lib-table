@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "BQ76925")(type "KiCad")(uri "${KIPRJMOD}/lib/BQ76925.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS560430X3F")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS560430X3F.kicad_sym")(options "")(descr ""))
+  (lib (name "LM74502")(type "KiCad")(uri "${KIPRJMOD}/lib/LM74502.kicad_sym")(options "")(descr ""))
+  (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/lib/local.kicad_sym")(options "")(descr ""))
+)
