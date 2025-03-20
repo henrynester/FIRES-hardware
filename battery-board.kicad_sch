@@ -345,9 +345,6 @@
     (path "/7e990e36-eabb-4be5-9f97-417cd690de4c/ce94d95b-2817-4512-bdc3-476574f7df5c"
       (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
     )
-    (path "/df0c6be8-eee9-4089-a508-b755ed1cf4ad/5e0b5854-c73e-4c88-a666-773f9bc662c9"
-      (reference "#PWR0114") (unit 1) (value "GNDPWR") (footprint "")
-    )
     (path "/7e990e36-eabb-4be5-9f97-417cd690de4c/ddeb9c74-0df2-4413-b339-e4799a9d92be"
       (reference "C1") (unit 1) (value "100n 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
